@@ -1,0 +1,35 @@
+body{
+    background-color:lightblue;
+    align-items: center;
+}
+
+.content{
+    color: white;
+    height:150px;
+    text-align: center;
+}
+.red{
+    height: 100px;
+    width: 400px;
+    background-color: red;
+
+}
+.green{
+    height: 100px;
+    width: 400px;
+    background-color: green;
+}
+.blue{
+    height: 100px;
+    width: 400px;
+    background-color: blue;
+}
+.yellow{
+    height: 100px;
+    width: 400px;
+    background-color: yellow;
+}
+.content{
+    display: flex;
+    flex-wrap: wrap;
+}
